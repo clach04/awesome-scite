@@ -13,6 +13,8 @@ at least two versions:
   * original
   * subset, with same API but less features
 
+both lost as lua forge died.
+
 ### scipm
 
   * https://github.com/aminassianOLD/scipm - SciTE package manager (node.js)
@@ -20,6 +22,14 @@ at least two versions:
 ## spell check
 
 luahunspell the first, original website now dead.
+
+  * https://code.google.com/archive/p/luahunspell/
+      * https://github.com/clach04/luahunspell/releases - mirror
+
+also see
+  * https://bitbucket-archive.softwareheritage.org/new-static/b4/b492dfdd-81d2-4b96-aafc-bbcbd06f2843/attachments/
+  * https://gitlab.com/rychly/luaspell
+
 
 [Orthospell](http://web.archive.org/web/20161010154412/http://tools.diorama.ch/orthospell.html) is based on hunspell and claims bug fixes but doesn't seem to include c++code. original website dead.
 
