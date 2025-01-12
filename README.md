@@ -62,6 +62,11 @@ http://lua-users.org/wiki/SciteExtMan
 
   * https://github.com/Ensequence/js2lua
 
+plugins
+<details>
+  * https://github.com/mkottman/scite/blob/master/scite/custom/scite-debug/scite_lua/micromode.lua
+
+</details>
 ## Python
 
 ## distributions
