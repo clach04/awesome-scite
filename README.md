@@ -16,6 +16,8 @@ at least two versions:
 
 both lost as lua forge died.
 
+  * http://lua-users.org/wiki/SciteExtMan
+
 ### scipm
 
   * https://github.com/aminassianOLD/scipm - SciTE package manager (node.js)
