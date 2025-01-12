@@ -13,7 +13,7 @@ at least two versions:
   * original
   * subset, with same API but less features
 
-###
+### scipm
 
   * https://github.com/aminassianOLD/scipm - SciTE package manager (node.js)
 
