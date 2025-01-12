@@ -47,6 +47,9 @@ commonly used compiled 3rd party libs:
  * spawner_ex.dll
  * shell.dll
 
+
+https://github.com/mkottman/scite/blob/master/scite/custom/scite-debug/win32-spawner-ex.c
+
 ## lua
 
   * https://github.com/Ensequence/js2lua
