@@ -21,7 +21,7 @@ at least two versions:
 
 luahunspell the first, original website now dead.
 
-Orthospell is based on hunspell and claims bug fixes but doesn't seem to include c++code. original website dead.
+[Orthospell](http://web.archive.org/web/20161010154412/http://tools.diorama.ch/orthospell.html) is based on hunspell and claims bug fixes but doesn't seem to include c++code. original website dead.
 
   * https://groups.google.com/g/scite-interest/c/Eu8D7E5yqrE
   * https://github.com/aminassianOLD/scipm.orthospell note needs scipm
