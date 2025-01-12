@@ -56,6 +56,10 @@ http://lua-users.org/wiki/SciteLuaDll
 
 ## lua
 
+https://www.scintilla.org/SciTELua.html
+
+http://lua-users.org/wiki/SciteExtMan
+
   * https://github.com/Ensequence/js2lua
 
 ## Python
