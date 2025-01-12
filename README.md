@@ -40,6 +40,13 @@ also see
   * https://github.com/aminassianOLD/scipm.orthospell note needs [scipm](https://github.com/clach04/awesome-scite/blob/main/README.md#scipm)
       * https://github.com/robertluwang/scite-setting/blob/master/scite-spell.md
 
+## shared libraries/ DDLs
+
+commonly used compiled 3rd party libs:
+
+ * spawner_ex.dll
+ * shell.dll
+
 ## lua
 
   * https://github.com/Ensequence/js2lua
