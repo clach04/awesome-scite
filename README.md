@@ -53,3 +53,8 @@ commonly used compiled 3rd party libs:
 
 ## Python
 
+## distributions
+
+  * upstream have two, full and sc1
+  * https://github.com/mkottman/scite/tree/master - old but includes some of the above libs and extensions
+
