@@ -31,7 +31,7 @@ also see
   * https://gitlab.com/rychly/luaspell
 
 
-[Orthospell](http://web.archive.org/web/20161010154412/http://tools.diorama.ch/orthospell.html) is based on hunspell and claims bug fixes but doesn't seem to include c++code. original website dead.
+[Orthospell](http://web.archive.org/web/20161010154412/http://tools.diorama.ch/orthospell.html) is based on hunspell and claims bug fixes but doesn't seem to include c++code. original website dead. there was a PDF manual (missing).
 
   * https://groups.google.com/g/scite-interest/c/Eu8D7E5yqrE
   * https://dreamcloud.artark.ca/scite-spell-check/
