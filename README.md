@@ -50,6 +50,8 @@ commonly used compiled 3rd party libs:
 
 https://github.com/mkottman/scite/blob/master/scite/custom/scite-debug/win32-spawner-ex.c
 
+http://lua-users.org/wiki/SciteLuaDll
+
 ## lua
 
   * https://github.com/Ensequence/js2lua
