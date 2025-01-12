@@ -8,3 +8,6 @@ awesome scite resource
 
 ## spell check
 
+## lua
+
+  * https://github.com/Ensequence/js2lua
