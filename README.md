@@ -4,7 +4,18 @@ awesome scite resource
 
 ## scite project
 
-## extman
+## plugin and package management
+
+### extman
+
+at least two versions:
+
+  * original
+  * subset, with same API but less features
+
+###
+
+  * https://github.com/aminassianOLD/scipm - SciTE package manager (node.js)
 
 ## spell check
 
