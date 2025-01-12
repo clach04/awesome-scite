@@ -11,3 +11,6 @@ awesome scite resource
 ## lua
 
   * https://github.com/Ensequence/js2lua
+
+## Python
+
