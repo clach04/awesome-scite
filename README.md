@@ -19,6 +19,10 @@ at least two versions:
 
 ## spell check
 
+luahunspell the first, original website now dead.
+
+Orthospell is based on hunspell and claims bug fixes but doesn't seem to include c++code. original website dead.
+
 ## lua
 
   * https://github.com/Ensequence/js2lua
