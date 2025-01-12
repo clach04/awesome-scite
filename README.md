@@ -1,6 +1,6 @@
 # awesome-scite
 
-SciTE, or SCIntilla based Text Editor, is a cross-platform text editor created by Neil Hodgson.
+[SciTE](https://scintilla.org/SciTE.html), or SCIntilla based Text Editor, is a cross-platform text editor created by Neil Hodgson.
 
 
 ## scite project
