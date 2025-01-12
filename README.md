@@ -64,7 +64,8 @@ http://lua-users.org/wiki/SciteExtMan
 
 plugins
 <details>
-  * https://github.com/mkottman/scite/blob/master/scite/custom/scite-debug/scite_lua/micromode.lua
+  * https://github.com/mkottman/scite/blob/master/scite/custom/scite-debug/scite_lua/ctagsdx.lua
+ https://github.com/mkottman/scite/blob/master/scite/custom/scite-debug/scite_lua/micromode.lua
 
 </details>
 ## Python
