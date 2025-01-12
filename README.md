@@ -32,7 +32,7 @@ also see
   * https://gitlab.com/rychly/luaspell
 
 
-[Orthospell](http://web.archive.org/web/20161010154412/http://tools.diorama.ch/orthospell.html) is based on hunspell (uses original dll) and modified version of the original extman.lua (without spawner_ex.dll). It requires shell.dll to run! NOTE original website dead. There was a PDF manual (missing).
+[Orthospell](http://web.archive.org/web/20161010154412/http://tools.diorama.ch/orthospell.html) by Urs Eberle is based on hunspell (uses original dll) and modified version of the original extman.lua (without spawner_ex.dll). It requires shell.dll to run! NOTE original website dead. There was a PDF manual (missing).
 
   * https://groups.google.com/g/scite-interest/c/Eu8D7E5yqrE
   * original download page http://web.archive.org/web/20150727024625/http://tools.diorama.ch/ortho_download.html
