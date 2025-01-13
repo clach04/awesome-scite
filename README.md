@@ -16,6 +16,7 @@ at least two versions:
 
 both lost as lua forge died.
 
+  * http://underpop.free.fr/l/lua/scripts/extman.lua
   * http://lua-users.org/wiki/SciteExtMan
 
 ### scipm
