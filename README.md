@@ -58,6 +58,7 @@ http://lua-users.org/wiki/SciteLuaDll
 ## lua
 
 https://www.scintilla.org/SciTELua.html
+.https://github.com/orbitalquark/scintillua
 
 http://lua-users.org/wiki/SciteExtMan
 
