@@ -14,6 +14,7 @@ SciteDebug (also referred to as scite-debug) is a debugger extension created by 
 originals lost due to website betrothed
 
   * https://lua-l.lua.narkive.com/sPEDPyEk/lua-debugger-extension-for-scite
+  * archive.is/scitedebug.luaforge.net/
   * https://github.com/mkottman/scite/tree/master/scite/custom/scite-debug
       * https://github.com/clach04/scite_mkottman
   * https://code.google.com/archive/p/scite-for-lua/
