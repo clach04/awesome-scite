@@ -7,6 +7,10 @@
 
 ## plugin and package management
 
+### SciteDebug
+
+SciteDebug (also referred to as scite-debug) is a debugger extension created by Steve Donovan, which included Extman.
+
 ### extman
 
 at least two versions:
