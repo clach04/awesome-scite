@@ -17,9 +17,11 @@ originals lost due to website betrothed
   * https://github.com/mkottman/scite/tree/master/scite/custom/scite-debug
       * https://github.com/clach04/scite_mkottman
   * https://code.google.com/archive/p/scite-for-lua/
+  * https://github.com/Rockywei1/luaforwindows/tree/master/SciTE/scite-debug
 
 ### extman
 
+Also see scite-debug / SciteDebug
 at least two versions:
 
   * original
