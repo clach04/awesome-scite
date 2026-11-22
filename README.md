@@ -16,6 +16,7 @@ originals lost due to website betrothed
   * https://lua-l.lua.narkive.com/sPEDPyEk/lua-debugger-extension-for-scite
   * https://github.com/mkottman/scite/tree/master/scite/custom/scite-debug
       * https://github.com/clach04/scite_mkottman
+  * https://code.google.com/archive/p/scite-for-lua/
 
 ### extman
 
