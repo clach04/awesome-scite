@@ -18,6 +18,7 @@ originals lost due to website betrothed
       * https://github.com/clach04/scite_mkottman
   * https://code.google.com/archive/p/scite-for-lua/
   * https://github.com/Rockywei1/luaforwindows/tree/master/SciTE/scite-debug
+  * https://github.com/clach04/Thorsten7701_myScite/tree/entwicklung/SciTE.3.7.5/opt/mod-scite-debug
   * https://github.com/clach04/Thorsten7701_myScite/tree/entwicklung/SciTE.5.1.4/opt/mod-scite-debug
 
 ### extman
