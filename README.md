@@ -33,6 +33,7 @@ both lost as lua forge died.
 
   * http://underpop.free.fr/l/lua/scripts/extman.lua
   * http://lua-users.org/wiki/SciteExtMan
+  * https://github.com/clach04/Thorsten7701_myScite/blob/entwicklung/SciTE.5.1.4/opt/extman.lua
 
 ### scipm
 
