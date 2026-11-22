@@ -82,4 +82,6 @@ plugins
 
   * [TextAdept](https://github.com/orbitalquark/textadept)
       * https://github.com/orbitalquark/textadept-spellcheck
+      * https://github.com/orbitalquark/textadept-debugger
+      * https://github.com/orbitalquark/textadept-lsp
 
