@@ -70,6 +70,7 @@ plugins
  https://github.com/mkottman/scite/blob/master/scite/custom/scite-debug/scite_lua/micromode.lua
 
 </details>
+
 ## Python
 
 ## distributions
@@ -79,5 +80,6 @@ plugins
 
 ## Alternative Scintilla based editors
 
-  * TextAdept
+  * [TextAdept](https://github.com/orbitalquark/textadept)
+      * https://github.com/orbitalquark/textadept-spellcheck
 
