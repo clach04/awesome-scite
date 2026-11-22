@@ -11,6 +11,10 @@
 
 SciteDebug (also referred to as scite-debug) is a debugger extension created by Steve Donovan, which included Extman.
 
+originals lost due to website betrothed
+
+  * https://lua-l.lua.narkive.com/sPEDPyEk/lua-debugger-extension-for-scite
+
 ### extman
 
 at least two versions:
