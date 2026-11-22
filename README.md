@@ -87,6 +87,7 @@ plugins
 
   * upstream have two, full and sc1
   * https://github.com/mkottman/scite/tree/master - old but includes some of the above libs and extensions
+  * SciTE Ru-Board Edition https://bitbucket.org/scite-ru/scite-ru.bitbucket.org/src/master/
 
 ## Alternative Scintilla based editors
 
